@@ -20,6 +20,7 @@
 
 .main-header .showcase {
   padding-top: 110px;
+
 }
 
 .scroll-icon {
@@ -73,6 +74,13 @@
   background-size: cover;
   background-position: center;
 }
+
+
+.side-nav {
+background-color: #FAFAFA;
+background-size: cover;
+}
+
 
 
 @media (max-width: 600px) {
