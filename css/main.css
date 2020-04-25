@@ -49,8 +49,9 @@
   position: relative;
 }
 
-.section-contact .card-panel {
-  position: relative;
+.section-contact .card-panel{
+
+  position: relative; 
   z-index: 1;
 }
 
@@ -70,7 +71,7 @@
 }
 
 .section-contact {
-  background: url(https://media.giphy.com/media/46hpy8xB3MiHfruixn/giphy.gif);
+  background-image: url(https://media.giphy.com/media/46hpy8xB3MiHfruixn/giphy.gif);
   background-size: cover;
   background-position: center;
 }
