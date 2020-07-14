@@ -71,7 +71,8 @@
 }
 
 .section-contact {
-background-image: url(https://media.giphy.com/media/46hpy8xB3MiHfruixn/giphy.gif);
+  /*background-image: url(https://i.pinimg.com/originals/08/a7/ab/08a7ab130881d2fb60585dc37744e04b.jpg);*/
+background-image: url(https://www.copaair.com/promotions/airtrfx-lp/MIA-cover-md.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -92,3 +93,17 @@ background-size: cover;
   }
 }
 
+.main-header-inner {
+  background: url(https://media.giphy.com/media/46hpy8xB3MiHfruixn/giphy.gif);
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  }
+
+
+.section-testimonials{
+  background: url(https://media.giphy.com/media/46hpy8xB3MiHfruixn/giphy.gif);
+  background-position: center;
+  background-size: cover;
+
+}
